@@ -25,12 +25,12 @@ It is recommended to use a virtual environment to isolate dependencies. Follow t
     
     On macOS/Linux:
     ```bash
-    source myenv/bin/activate
+    source venv/bin/activate
     ```
 
     On Windows:
     ```bash
-    myenv\Scripts\activate
+    venv\Scripts\activate
     ```
 
 ## Install dependencies
