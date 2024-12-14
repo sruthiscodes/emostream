@@ -2,7 +2,7 @@
 
 This project implements a highly scalable, real-time emoji system, built using Flask, Kafka, WebSockets, and Apache Spark for real-time data processing and monitoring.
 
-# Prerequisites
+## Prerequisites
 Before running the application, make sure you have the following installed and running:
 - **Python 3.10+**
 - **Apache Kafka (version 3.9.0+)**
@@ -32,13 +32,13 @@ It is recommended to use a virtual environment to isolate dependencies. Follow t
     myenv\Scripts\activate
     ```
 
-## Install dependencies ##
+## Install dependencies
 Install dependencies by running
 ```
 pip install -r requirements.txt
 ```
 
-## Run each python file ##
+## Run each python file
 Run all four python files by executing
 ```
 python *filename*.py
