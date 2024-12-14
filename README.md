@@ -40,10 +40,16 @@ pip install -r requirements.txt
 ```
 
 ## Run each python file
-Run all four python files by executing
+Run all four python files by executing the python files on separate terminals
 ```
 python server.py
+```
+```
 python spark-consumer.py
+```
+```
 python pubsub.py
+```
+```
 python client.py
 ```
