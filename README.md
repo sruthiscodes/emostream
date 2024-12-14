@@ -21,7 +21,8 @@ It is recommended to use a virtual environment to isolate dependencies. Follow t
    python3.10 -m venv venv
    ```
 
-3. **Activate the virtual environment:**:
+3. **Activate the virtual environment**:
+    
     On macOS/Linux:
     ```bash
     source myenv/bin/activate
