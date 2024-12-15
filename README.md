@@ -1,6 +1,6 @@
-# Scalable Emoji System
+# Scalable Emoji Distribution System
 
-This project implements a highly scalable, real-time emoji system, built using Flask, Kafka, WebSockets, and Apache Spark for real-time data processing and monitoring.
+This project implements a highly scalable, real-time emoji distribution system, built using Flask, Kafka, WebSockets, and Apache Spark for real-time data processing and monitoring.
 
 ## Prerequisites
 Before running the application, make sure you have the following installed and running:
